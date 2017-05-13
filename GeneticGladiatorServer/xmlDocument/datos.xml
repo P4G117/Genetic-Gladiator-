@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Poblacion-1>
+<NumeroGeneracion>1</NumeroGeneracion>
+<Generacion>
+<Individuo>000010001100010110</Individuo>
+<Fitness>22</Fitness>
+</Generacion>
+<Gladiador>
+<Nombre>MasterChief</Nombre>
+<Genes>111111111011001011</Genes>
+<Fitness>99</Fitness>
+<Resistencia-Manos>99</Resistencia-Manos>
+<Resistencia-Pies>99</Resistencia-Pies>
+<Resistencia-Cuerpo>99</Resistencia-Cuerpo>
+<Resistencia-Total>99</Resistencia-Total>
+<Fuerza-Manos>66</Fuerza-Manos>
+<Fuerza-Pies>33</Fuerza-Pies>
+<Fuerza-Cuerpo>66</Fuerza-Cuerpo>
+</Gladiador>
+<Mutaciones>0</Mutaciones>
+<Inversiones>0</Inversiones>
+<ResultadoFinal>aún no se sabe</ResultadoFinal>
+</Poblacion-1>
